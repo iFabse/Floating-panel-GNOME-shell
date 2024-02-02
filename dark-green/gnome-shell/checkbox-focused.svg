@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(-342.5 -521.362)">
+    <rect rx="3" ry="3" y="524.362" x="345.5" height="18" width="18" style="color: #000;&#10;              display: inline;&#10;              overflow: visible;&#10;              visibility: visible;&#10;              fill: none;&#10;              fill-opacity: 1;&#10;              stroke: rgba(204, 170, 102, 1);&#10;              stroke-width: 6;&#10;              stroke-linecap: butt;&#10;              stroke-linejoin: round;&#10;              stroke-miterlimit: 4;&#10;              stroke-dasharray: none;&#10;              stroke-dashoffset: 0;&#10;              stroke-opacity: .34999999;&#10;              marker: none;&#10;              enable-background: accumulate"/>
+    <rect y="524.362" x="345.5" height="18" width="18" style="color: rgb(0, 0, 0); display: inline; overflow: visible; visibility: visible; fill: rgb(204, 170, 102); fill-opacity: 1; stroke-width: 2; stroke-linecap: butt; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0; stroke-opacity: 1; marker: none; stroke: rgb(59, 94, 64);" rx="3" ry="3"/>
+    <path style="color: #000;&#10;                fill: rgba(43, 31, 7, 0.87);&#10;                stroke-linecap: round;&#10;                stroke-linejoin: round;&#10;                -inkscape-stroke: none" d="M361.998 527.733a1.5 1.5 0 0 0-2.117.127l-6.928 7.824-2.928-2.882a1.5 1.5 0 0 0-2.12.015 1.5 1.5 0 0 0 .015 2.121l4.055 3.993a1.5 1.5 0 0 0 2.175-.075l7.975-9.006a1.5 1.5 0 0 0-.127-2.117z"/>
+  </g>
+</svg>

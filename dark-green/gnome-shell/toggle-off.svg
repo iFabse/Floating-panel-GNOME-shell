@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="48" height="26" version="1.1" id="svg2" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(-1 0 0 1 0 -291.18)" id="g2">
+    <rect style="stroke: none; stroke-width: 1; marker: none; fill: rgb(230, 153, 153); fill-opacity: 0;" x="-48" y="291.18" width="48" height="26" rx="4" ry="4" id="rect1" ne="0.9928733316374765"/>
+    <rect style="stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; fill-opacity: 1; fill: rgb(59, 94, 64);" id="rect2" width="48" height="25.999992" x="0" y="291.17999" transform="scale(-1,1)"/>
+    <circle style="fill: rgb(237, 214, 182); fill-opacity: 1; stroke: none; stroke-width: 0.993415; stroke-linecap: round; stroke-linejoin: round;" id="circle1" cx="13.966" cy="303.781" r="7.363" transform="matrix(-1, 0, 0, 1, 0, 0)" ne="0.7484853753541514"/>
+  </g>
+</svg>
