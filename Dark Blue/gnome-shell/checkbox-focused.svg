@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(-342.5 -521.362)">
+    <rect rx="3" ry="3" y="524.362" x="345.5" height="18" width="18" style="color: rgb(0, 0, 0); display: inline; overflow: visible; visibility: visible; fill: none; fill-opacity: 1; stroke-width: 6; stroke-linecap: butt; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0; stroke-opacity: 0.35; marker: none; stroke: rgb(204, 218, 255);"/>
+    <rect y="524.362" x="345.5" height="18" width="18" style="color: rgb(0, 0, 0); display: inline; overflow: visible; visibility: visible; fill-opacity: 1; stroke-width: 2; stroke-linecap: butt; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0; stroke-opacity: 1; marker: none; fill: rgb(168, 180, 255); stroke: rgb(141, 163, 255);" rx="3" ry="3"/>
+    <path style="color: rgb(0, 0, 0); stroke-linecap: round; stroke-linejoin: round; fill: rgba(0, 0, 0, 0.87);" d="M 361.522 528.399 C 360.902 527.85 359.954 527.907 359.405 528.526 L 352.477 536.35 L 349.549 533.468 C 348.959 532.888 348.01 532.894 347.429 533.483 C 346.847 534.073 346.854 535.023 347.444 535.604 L 351.499 539.597 C 352.111 540.2 353.104 540.166 353.674 539.522 L 361.649 530.516 C 362.198 529.897 362.141 528.949 361.522 528.399 Z"/>
+  </g>
+</svg>
